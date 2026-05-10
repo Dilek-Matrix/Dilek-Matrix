@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/PX1doq1mxnYAAAAC/girl-hacker.gif" width="300">
+  <img src="https://media1.tenor.com/m/PX1doq1mxnYAAAAC/girl-hacker.gif" width="200">
 </p>
 
 # Hi, I'm Dilek İnce 👋
