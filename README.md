@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2cWp6bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4/v1.giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2cWp6bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4/v1.giphy.gif" width="350">
 </p>
 
 # Hi, I'm Dilek İnce 👋
@@ -15,7 +14,8 @@
 📫 How to reach me: dilekince04@gmail.com
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilek-ince-86a011270/) [![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Dilek) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dilekince04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilek-ince-86a011270/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dilekince04@gmail.com)
+
 
 ---
 
