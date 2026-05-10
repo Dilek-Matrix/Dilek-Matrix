@@ -3,7 +3,7 @@ README.md 💫 About Me:
 
 > **"Design is a vision, Frontend is the bridge to reality. I build that bridge with strength, speed, and precision. 🚀💻"**
 > <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4/v1.giphy.gif" width="100%">
+  <img src="https://media1.tenor.com/m/PX1doq1mxnYAAAAC/girl-hacker.gif" width="100%">
 </p>
 
 ---
