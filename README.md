@@ -1,5 +1,10 @@
 README.md 💫 About Me:
-👋 Hi, I’m Dilek İnce<br>👀 I’m working on frontend development and trying to be fullstack developer.<br>🌱 I’m currently getting better at  HTML5, CSS3, JavaScript, React.<br>📫 How to reach me dilekince04@gmail.com<br>📫 Here is my linkedIn profile https://www.linkedin.com/in/dilekince/
+# Hi, I'm Dilek İnce 👋
+
+> **"Design is a vision, Frontend is the bridge to reality. I build that bridge with strength, speed, and precision. 🚀💻"**
+
+---
+<br>👀 I’m working on frontend development and trying to be fullstack developer.<br>🌱 I’m currently getting better at  HTML5, CSS3, JavaScript, React.<br>📫 How to reach me dilekince04@gmail.com<br>📫 Here is my linkedIn profile https://www.linkedin.com/in/dilekince/
 
 
 ## 🌐 Socials:
