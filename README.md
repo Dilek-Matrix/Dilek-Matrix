@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2cWp6bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4/v1.giphy.gif" width="350">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2cWp6bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4/v1.giphy.gif" width="400">
 </p>
 
 # Hi, I'm Dilek İnce 👋
