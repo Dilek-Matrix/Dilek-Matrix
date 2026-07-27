@@ -32,4 +32,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dilek-Matrix&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->d
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
