@@ -13,6 +13,8 @@
 🌱 I’m currently getting better at HTML5, CSS3, JavaScript, React.<br>
 📫 How to reach me: dilekince04@gmail.com
 
+Passionate about building responsive, accessible, and user-friendly web applications. Always eager to learn new technologies and improve my coding skills
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilek-ince-a93446272/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dilekince04@gmail.com)
 
