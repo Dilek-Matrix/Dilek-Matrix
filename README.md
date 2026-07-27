@@ -9,11 +9,14 @@
 ---
 
 ### 🚀 About Me:
-👀 I’m working on frontend development and trying to be fullstack developer.<br>
-🌱 I’m currently getting better at HTML5, CSS3, JavaScript, React.<br>
-📫 How to reach me: dilekince04@gmail.com
 
-🌟 Passionate about building responsive, accessible, and user-friendly web applications. Always eager to learn new technologies and improve my coding skills.
+👀 I’m working on frontend development and aspiring to become a full-stack developer.
+
+🌱 I’m currently refining my skills in HTML5, CSS3, JavaScript, and React.
+
+📬 How to reach me: dilekince04@gmail.com
+
+🌟 Passionate about building responsive, accessible, and user-friendly web applications. Always eager to learn new technologies and continuously improve my coding skills.
 
 
 ## 🌐 Socials:
